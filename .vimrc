@@ -1,0 +1,1 @@
+/cygdrive/c/Users/STC/dotfiles/home/.vimrc
